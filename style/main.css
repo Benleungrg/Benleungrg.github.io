@@ -603,6 +603,7 @@ nav {
 }
 .next-post {
   text-align: center;
+  margin-top: 80px;
 }
 .next-post .post-title {
   display: inline-block;
