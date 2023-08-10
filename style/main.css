@@ -737,7 +737,7 @@ nav {
   color: var(--c-base-blacklight);
   padding-left: 24px;
   line-height: 1.725;
-  margin-bottom: 16px;
+  margin-bottom: 80px;
 }
 .post-content strong {
   font-weight: bolder;
